@@ -1,0 +1,10 @@
+||*mtalk.google.com^
+||graph.facebook.com^$important
+||safebrowsing.googleapis.com^
+||datasaver.googleapis.com^
+||storage.googleapis.com$app=com.google.android.inputmethod.latin,important
+||lenovomm.com^
+@@||fus.lenovomm.com^$important
+||crashlytics.com^
+||app-measurement.com^
+||play.googleapis.com/log^
