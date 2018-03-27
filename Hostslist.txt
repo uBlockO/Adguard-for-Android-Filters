@@ -8,5 +8,9 @@
 @@||fus.lenovomm.com^$important
 ||crashlytics.com^
 ||app-measurement.com^
-||googleapis.com^$app=com.google.android.gms
+||googleapis.com^$app=com.google.android.gms|com.google.android.keep
 ||gstatic.com^$app=com.google.android.inputmethod.latin
+||adnxs.com^
+||mapbox.com^
+||a-mo.net^
+
