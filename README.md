@@ -1,3 +1,3 @@
 # Adguard-for-Android-Filters
  
- RAW - https://raw.githubusercontent.com/uBlock-user/Adguard-for-Android-Filters/master/Hostslist.txt
+ RAW - https://raw.githubusercontent.com/uBlock-user/Adguard-for-Android-Filters/master/HOSTS.txt
