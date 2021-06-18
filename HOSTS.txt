@@ -1,4 +1,4 @@
-||$third-party
+||*$third-party,important
 ||*mtalk.google.com^
 ||graph.facebook.com^$important
 ||safebrowsing.googleapis.com^$important
@@ -8,7 +8,7 @@
 @@||fus.lenovomm.com^$important
 ||crashlytics.com^
 ||app-measurement.com^
-||googleapis.com^$app=com.google.android.gms|com.google.android.keep
+||googleapis.com^$app=com.google.android.keep
 ||gstatic.com^$app=com.google.android.inputmethod.latin
 ||adnxs.com^
 ||mapbox.com^
