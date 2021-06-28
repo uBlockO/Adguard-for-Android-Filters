@@ -13,4 +13,4 @@
 ||adnxs.com^
 ||mapbox.com^
 ||a-mo.net^
-
+||mail-ads.google.com^$important
