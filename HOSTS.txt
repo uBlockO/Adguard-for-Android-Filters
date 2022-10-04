@@ -2,10 +2,7 @@
 ||*mtalk.google.com^
 ||graph.facebook.com^$important
 ||safebrowsing.googleapis.com^$important
-||datasaver.googleapis.com^$important
 ||storage.googleapis.com$app=com.google.android.inputmethod.latin,important
-||lenovomm.com^
-@@||fus.lenovomm.com^$important
 ||crashlytics.com^
 ||app-measurement.com^
 ||googleapis.com^$app=com.google.android.keep
